@@ -4,7 +4,7 @@ Contributors: Ajay D'Souza, Emblematiq
 Stable tag: trunk
 Donate link: http://ajaydsouza.com/donate/
 
-Niceforms is a script that will replace the most commonly used form elements with custom designed ones. You can either use the default theme that is provided or you can even develop your own look with minimal effort. 
+GreyBox is a script can be used to display websites, images and other content in a beautiful way. 
 
 == Description ==
 
